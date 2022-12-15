@@ -1,5 +1,3 @@
-![Splash](test/paint/golden/splash.png)
-
 SVG3D
 ===========
 
@@ -10,11 +8,12 @@ A flutter package that displays large 3D datasets on a transparent canvas.
 ## Preface
 
 SVG3D was created to efficiently display datasets and meshes in 3D space. It wasn't intended to create a 3D game engine and is rather useful for displaying static meshes.
+
 This project is a clone of [Ditredi](https://gitlab.com/jelenski/ditredi.git)
 
 ## Table of Contents
 
-- [DiTreDi (D 3D)](#ditredi-d-3d)
+- [SVG3D (D 3D)](#SVG3D)
   - [Preface](#preface)
   - [Table of Contents](#table-of-contents)
   - [Getting started](#getting-started)
